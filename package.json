@@ -1,0 +1,12 @@
+{
+  "name": "azure-paas-app",
+  "version": "1.0.0",
+  "description": "Static site served via Node.js on Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
